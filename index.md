@@ -1,6 +1,8 @@
 # H1 Header
 
-
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 

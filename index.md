@@ -4,6 +4,7 @@
 
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
@@ -19,4 +20,4 @@
 
 
 
-I made a header
+I made a header and added a image
